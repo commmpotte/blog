@@ -1,4 +1,10 @@
-# React project for Udemy
+Simple app blog via React. 
+
+##Some screenshots
+<img width="1280" alt="Снимок экрана 2022-12-23 в 17 54 23" src="https://user-images.githubusercontent.com/95095531/209355936-a737a071-6338-4757-9e7d-df1f6b4cd021.png">
+<img width="1280" alt="Снимок экрана 2022-12-23 в 17 54 30" src="https://user-images.githubusercontent.com/95095531/209355942-70bfd6f9-45da-4370-919e-5fdbed51fb64.png">
+<img width="1280" alt="Снимок экрана 2022-12-23 в 17 54 38" src="https://user-images.githubusercontent.com/95095531/209355967-404eb9f7-b843-4b38-af87-58ea44f54e78.png">
+
 
 ## Available Scripts
 
