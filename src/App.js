@@ -31,7 +31,7 @@ function App() {
       <Navbar
         className="navbar navbar-expand-md navbar-dark fixed-top bg-dark"
         sticky="top"
-        collapseOnSelecе
+        collapseOnSelect
         expand="md"
         bg="dark"
         variant="dark"

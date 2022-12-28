@@ -8,12 +8,12 @@ import {
 } from 'firebase/auth'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAAM3jElP67SBE0vsNBrryKe_DZZVrlTQo",
-  authDomain: "blog-959fa.firebaseapp.com",
-  projectId: "blog-959fa",
-  storageBucket: "blog-959fa.appspot.com",
-  messagingSenderId: "576339048922",
-  appId: "1:576339048922:web:763d9e03b178de650be8e3"
+  apiKey: "AIzaSyCv2RYJB2RoOJyFqB2zv9TPbxAZQCvMreo",
+  authDomain: "blog4-92419.firebaseapp.com",
+  projectId: "blog4-92419",
+  storageBucket: "blog4-92419.appspot.com",
+  messagingSenderId: "172220242951",
+  appId: "1:172220242951:web:55447b893c99c43e999ea2"
 };
 
 // Initialize Firebase
